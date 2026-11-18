@@ -1,0 +1,7 @@
+车次,出发站,到达站,发车时刻,到达时刻,历时分钟,二等座价格,一等座价格,余票状态,查询日期,来源网址,查询时间,备注
+D3126,深圳北,宁波,06:46,16:13,567,523,838,二等有票;一等有票;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=宁波&dDate=2026-11-25,2026-11-18 22:29,
+D2294,深圳北,宁波,08:04,17:09,545,546,874,二等有票;一等抢;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=宁波&dDate=2026-11-25,2026-11-18 22:29,
+D2282,深圳北,宁波,09:32,18:42,550,546,874,二等有票;一等17张;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=宁波&dDate=2026-11-25,2026-11-18 22:29,
+D2424,深圳北,宁波,11:13,20:06,533,546,874,二等有票;一等抢;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=宁波&dDate=2026-11-25,2026-11-18 22:29,
+D3308,深圳北,宁波,11:42,20:43,541,546,874,二等有票;一等16张;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=宁波&dDate=2026-11-25,2026-11-18 22:29,
+D3124,深圳北,宁波,11:57,21:38,581,528,845,二等有票;一等有票;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=宁波&dDate=2026-11-25,2026-11-18 22:29,
