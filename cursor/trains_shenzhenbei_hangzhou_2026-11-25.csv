@@ -1,0 +1,23 @@
+车次,出发站,到达站,发车时刻,到达时刻,历时分钟,二等座价格,一等座价格,余票状态,查询日期,来源网址,查询时间,备注
+D3126,深圳北,杭州东,06:46,17:27,641,585,937,二等有票;一等有票;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,
+G270,深圳北,杭州东,07:43,13:29,346,775,1215,二等有票;一等有票;商务7张;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,商务座2545
+D2294,深圳北,杭州东,08:04,18:27,623,608,973,二等有票;一等抢;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,
+D2290,深圳北,杭州东,08:55,19:37,642,593,950,二等有票;一等有票;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,
+D2282,深圳北,杭州东,09:32,19:59,627,608,973,二等有票;一等13张;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,
+D2424,深圳北,杭州东,11:13,21:19,606,608,973,二等有票;一等抢;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,
+G3022,深圳北,杭州东,11:32,20:48,556,654,1046,二等有票;一等有票;商务有票;无座有票,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,商务座2284
+D3308,深圳北,杭州东,11:42,21:56,614,608,973,二等有票;一等18张;无座有票,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,
+D3108,深圳北,杭州东,11:52,21:37,585,560,898,二等有票;一等抢;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,
+D3124,深圳北,杭州东,11:57,22:40,643,587,939,二等有票;一等有票;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,
+G896,深圳北,杭州东,20:26,次日 06:06,580,603,,二等抢;特等抢;动卧有票,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,无二等以外的一等座。特等座651（抢），动卧700（有票）。二等座价格为页面标价，余票为抢
+D3126,深圳北,杭州南,06:46,17:15,629,579,926,二等有票;一等有票;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,页面归入“其他方案”，到达站不是杭州东
+D2294,深圳北,杭州南,08:04,18:11,607,602,962,二等有票;一等抢;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,页面归入“其他方案”
+D2284,深圳北,杭州西,08:15,17:43,568,627,1003,二等有票;一等抢;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,页面归入“其他方案”
+D2290,深圳北,杭州南,08:55,19:24,629,587,939,二等有票;一等有票;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,页面归入“其他方案”
+D378,深圳北,杭州西,10:30,20:12,582,585,936,二等有票;一等抢;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,页面归入“其他方案”
+G3024,深圳北,杭州西,10:52,20:03,551,710.5,1158.5,二等有票;一等抢;商务2张;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,商务座2376。页面归入“其他方案”
+D2424,深圳北,杭州南,11:13,21:03,590,602,962,二等有票;一等抢;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,页面归入“其他方案”
+G902,深圳北,杭州西,11:57,18:27,390,754,1205,二等有票;一等抢;商务抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,商务座2489。页面归入“其他方案”
+G998,深圳北,杭州西,15:10,21:20,370,750,1199,二等有票;一等抢;商务抢;无座有票,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,商务座2475。页面归入“其他方案”
+N98,深圳东,杭州南,16:04,次日 09:11,1027,,,硬座有票;硬卧有票;软卧3张;无座有票,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,普速。硬座212.5，硬卧355.5，软卧556.5。无二等座、一等座
+D22,深圳,杭州南,20:00,次日 10:37,877,259,,二等有票;二等卧有票;一等卧抢;无座抢,2026-11-25,https://trains.ctrip.com/webapp/train/list?dStation=深圳北&aStation=杭州东&dDate=2026-11-25,2026-11-18 21:57,出发站是深圳站不是深圳北。二等卧401（有票），一等卧544（抢）。页面归入“其他方案”
